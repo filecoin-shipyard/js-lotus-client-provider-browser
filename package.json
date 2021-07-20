@@ -1,6 +1,6 @@
 {
-  "name": "@filecoin-shipyard/lotus-client-provider-browser",
-  "version": "0.0.14",
+  "name": "@jimpick/lotus-client-provider-browser",
+  "version": "0.0.14-1",
   "scripts": {
     "lint": "standard",
     "test": "npm run lint",
