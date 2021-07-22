@@ -20,6 +20,7 @@ class BrowserProvider {
         this.url += `?token=${this.token}`
       }
     }
+    this.authorizationHeader = options.authorizationHeader
     this.WebSocket = options.WebSocket || globalThis.WebSocket
     this.fetch = options.fetch || globalThis.fetch.bind(globalThis)
   }
@@ -78,6 +79,9 @@ class BrowserProvider {
     }
     if (this.token) {
       headers.Authorization = `Bearer ${this.token}`
+    }
+    if (this.authorizationHeader) {
+      headers.Authorization = this.authorizationHeader
     }
     const response = await this.fetch(this.httpUrl, {
       method: 'POST',
