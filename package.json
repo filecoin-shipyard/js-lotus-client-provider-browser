@@ -1,6 +1,6 @@
 {
   "name": "@filecoin-shipyard/lotus-client-provider-browser",
-  "version": "0.0.14",
+  "version": "0.0.0-dev",
   "description": "Lotus JS Client Web Browser Provider module",
   "scripts": {
     "lint": "standard",
@@ -114,14 +114,7 @@
         }
       ],
       "@semantic-release/github",
-      [
-        "@semantic-release/git",
-        {
-          "assets": [
-            "package.json"
-          ]
-        }
-      ]
+      "@semantic-release/git"
     ]
   }
 }
