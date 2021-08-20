@@ -1,3 +1,10 @@
+### [1.0.1](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.0.0...v1.0.1) (2021-08-20)
+
+
+### Bug Fixes
+
+* semantic-release versioning and CHANGELOG commit ([2883800](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/2883800042c1a9420b61cec65c164987347da9eb))
+
 ## 1.0.0 (2021-08-20)
 
 ### Trivial Changes
