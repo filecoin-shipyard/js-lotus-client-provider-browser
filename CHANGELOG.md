@@ -1,3 +1,10 @@
+### [1.0.4](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.0.3...v1.0.4) (2021-11-04)
+
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 2.3.5 to 2.4.0 ([8a2f291](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/8a2f291c1f74c4ca0ebd681390ecc50c17c2f010))
+
 ### [1.0.3](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.0.2...v1.0.3) (2021-10-18)
 
 
