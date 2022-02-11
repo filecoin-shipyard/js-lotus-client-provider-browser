@@ -8,6 +8,7 @@ class BrowserProvider {
     this.importUrl =
       options.importUrl || this.httpUrl.replace(/\/rpc\//, '/rest/') + '/import'
     this.transport = options.transport || (url.match(/^http/) ? 'http' : 'ws')
+    this.sendHttpContentType = options.sendHttpContentType || 'text/plain;charset=UTF-8'
     this.id = 0
     this.inflight = new Map()
     this.cancelled = new Map()
@@ -74,7 +75,7 @@ class BrowserProvider {
   async sendHttp (jsonRpcRequest) {
     await this.connect()
     const headers = {
-      'Content-Type': 'text/plain;charset=UTF-8',
+      'Content-Type': this.sendHttpContentType,
       Accept: '*/*'
     }
     if (this.token) {
