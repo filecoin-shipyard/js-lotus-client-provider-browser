@@ -1,3 +1,10 @@
+## [1.1.0](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.0.5...v1.1.0) (2022-02-14)
+
+
+### Features
+
+* add support for other content types for http requests ([#14](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/14)) ([d7ee42b](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/d7ee42b1c01b44cab24e76b5dd72d2f6054bce91))
+
 ### [1.0.5](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.0.4...v1.0.5) (2022-01-24)
 
 
