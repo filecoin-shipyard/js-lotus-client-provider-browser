@@ -1,3 +1,23 @@
+## [1.1.1](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.1.0...v1.1.1) (2023-01-02)
+
+
+### Trivial Changes
+
+* **deps:** bump actions/checkout from 3.1.0 to 3.2.0 ([#32](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/32)) ([99821ea](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/99821eafafb5638fb8663b0baa7f637e6ba6d12a))
+* **no-release:** bump actions/checkout from 2.4.0 to 3.0.1 ([#20](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/20)) ([ffc6bce](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/ffc6bceae7612e92693a32dfde95db4402617e17))
+* **no-release:** bump actions/checkout from 3.0.1 to 3.0.2 ([#22](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/22)) ([2c5aecc](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/2c5aecc739df34b91f04f4eccb064b0e9792a41b))
+* **no-release:** bump actions/checkout from 3.0.2 to 3.1.0 ([#30](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/30)) ([58a11f5](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/58a11f5774943dfded364fb46c12ac9c804e8424))
+* **no-release:** bump actions/setup-node from 2.5.1 to 3.0.0 ([#15](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/15)) ([c97b269](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/c97b2690023ebd6ab5c93144fdeb79184c91b111))
+* **no-release:** bump actions/setup-node from 3.0.0 to 3.1.0 ([#17](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/17)) ([ac1885c](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/ac1885cfc56c54bceb1799321770765c338769fb))
+* **no-release:** bump actions/setup-node from 3.1.0 to 3.1.1 ([#19](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/19)) ([aee6f8c](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/aee6f8c6b42e705b5350203e4a1cd960247a38ec))
+* **no-release:** bump actions/setup-node from 3.1.1 to 3.2.0 ([#24](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/24)) ([d4ff66d](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/d4ff66d67c6b70511944cb81bedcfa3492076255))
+* **no-release:** bump actions/setup-node from 3.2.0 to 3.3.0 ([#25](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/25)) ([d7680e4](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/d7680e479c69d9661834ac81db994b31b389e025))
+* **no-release:** bump actions/setup-node from 3.3.0 to 3.4.0 ([#26](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/26)) ([b76b407](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/b76b407d20359be37bbf53441629305742f3d391))
+* **no-release:** bump actions/setup-node from 3.4.0 to 3.4.1 ([#27](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/27)) ([48e20db](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/48e20db663bb47f9f9944fad0c90e508215324e5))
+* **no-release:** bump actions/setup-node from 3.4.1 to 3.5.0 ([#29](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/29)) ([0860c4f](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/0860c4f14480aa6c40190f3a6ea6df402a9357a5))
+* **no-release:** bump actions/setup-node from 3.5.0 to 3.5.1 ([#31](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/31)) ([5d413f7](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/5d413f7779318cbc74f22316da55c822e7dd78cd))
+* **no-release:** bump standard from 16.0.4 to 17.0.0 ([#21](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/issues/21)) ([047c242](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/commit/047c2425e7b463345a15b976fd65f8dbcde6d676))
+
 ## [1.1.0](https://github.com/filecoin-shipyard/js-lotus-client-provider-browser/compare/v1.0.5...v1.1.0) (2022-02-14)
 
 
